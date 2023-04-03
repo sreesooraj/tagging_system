@@ -16,4 +16,4 @@ Install requirements using pip install -r requirements.txt.
 Make database migrations using python manage.py makemigrations and python manage.py migrate. 
 Run the server using python manage.py runserver.
 
-Usage Postman Api collection is provided in the mail.
+Usage Postman Api collection is provided in the mail .
